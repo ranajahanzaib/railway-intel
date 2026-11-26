@@ -1,0 +1,29 @@
+{
+  "name": "railway-intel",
+  "private": true,
+  "packageManager": "pnpm@12.23.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "*",
+    "echarts": "*",
+    "echarts-for-react": "*",
+    "lucide-react": "*",
+    "next": "*",
+    "react": "*",
+    "react-dom": "*"
+  },
+  "devDependencies": {
+    "@types/node": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "eslint": "^9",
+    "eslint-config-next": "*",
+    "typescript": "^6.0"
+  }
+}

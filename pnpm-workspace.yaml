@@ -1,0 +1,6 @@
+minimumReleaseAge: 1440
+minimumReleaseAgeExclude:
+  - "@types/node@26.6.11"
+  - "@types/react@19.3.3"
+  - "ignore@7.0.17"
+  - "lucide-react@1.81.0"

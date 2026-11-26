@@ -1,0 +1,20 @@
+[project]
+name = "railway-intel"
+version = "0.1.0"
+description = "Historical railway reliability intelligence for Germany"
+requires-python = ">=3.12"
+dependencies = ["duckdb", "fastapi", "httpx", "polars", "pyarrow", "pydantic", "uvicorn"]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+warehouse = ["dbt-core<1.12", "dbt-duckdb"]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
