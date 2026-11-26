@@ -1,0 +1,11 @@
+name: railway_intel
+version: "1.0.0"
+config-version: 2
+profile: railway_intel
+model-paths: [models]
+test-paths: [tests]
+clean-targets: [target, dbt_packages]
+models:
+  railway_intel:
+    staging: { +materialized: view }
+    marts: { +materialized: table }

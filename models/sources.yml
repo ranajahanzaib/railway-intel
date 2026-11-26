@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: dbn
+    description: Local monthly historical stop event releases from the documented Deutsche Bahn data repository.
+    tables:
+      - name: stop_events
+        meta:
+          external_location: "read_parquet('data/processed/**/*.parquet', union_by_name=true)"

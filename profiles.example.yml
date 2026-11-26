@@ -1,0 +1,7 @@
+railway_intel:
+  target: local
+  outputs:
+    local:
+      type: duckdb
+      path: data/railway.duckdb
+      threads: 4
