@@ -1,0 +1,1146 @@
+{
+  "08000207": {
+    "lat": 50.94303,
+    "lon": 6.95873,
+    "name": "K\u00f6ln Hbf",
+    "events": 39827,
+    "mean_delay": 6.0,
+    "on_time_pct": 73.5
+  },
+  "08000262": {
+    "lat": 48.12744,
+    "lon": 11.60497,
+    "name": "M\u00fcnchen Ost",
+    "events": 38942,
+    "mean_delay": 4.4,
+    "on_time_pct": 77.6
+  },
+  "08000085": {
+    "lat": 51.21996,
+    "lon": 6.79432,
+    "name": "D\u00fcsseldorf Hbf",
+    "events": 38077,
+    "mean_delay": 4.9,
+    "on_time_pct": 78.7
+  },
+  "08089066": {
+    "lat": 52.5203,
+    "lon": 13.3869,
+    "name": "Berlin Friedrichstra\u00dfe",
+    "events": 35719,
+    "mean_delay": 1.5,
+    "on_time_pct": 95.6
+  },
+  "08098549": {
+    "lat": 53.55273,
+    "lon": 10.00691,
+    "name": "Hamburg Hbf",
+    "events": 34976,
+    "mean_delay": 2.1,
+    "on_time_pct": 92.3
+  },
+  "08000098": {
+    "lat": 51.45135,
+    "lon": 7.0148,
+    "name": "Essen Hbf",
+    "events": 34861,
+    "mean_delay": 3.6,
+    "on_time_pct": 84.0
+  },
+  "08000284": {
+    "lat": 49.44561,
+    "lon": 11.08299,
+    "name": "N\u00fcrnberg Hbf",
+    "events": 34685,
+    "mean_delay": 4.6,
+    "on_time_pct": 82.2
+  },
+  "08089015": {
+    "lat": 52.54896,
+    "lon": 13.38851,
+    "name": "Berlin Gesundbrunnen",
+    "events": 34522,
+    "mean_delay": 1.3,
+    "on_time_pct": 96.5
+  },
+  "08089073": {
+    "lat": 52.47548,
+    "lon": 13.36557,
+    "name": "Berlin S\u00fcdkreuz",
+    "events": 34447,
+    "mean_delay": 1.5,
+    "on_time_pct": 96.9
+  },
+  "08000105": {
+    "lat": 50.10715,
+    "lon": 8.66379,
+    "name": "Frankfurt (Main) Hbf",
+    "events": 34424,
+    "mean_delay": 6.5,
+    "on_time_pct": 71.5
+  },
+  "08098263": {
+    "lat": 48.14023,
+    "lon": 11.55834,
+    "name": "M\u00fcnchen Hbf",
+    "events": 32528,
+    "mean_delay": 4.6,
+    "on_time_pct": 72.7
+  },
+  "08003368": {
+    "lat": 52.39941,
+    "lon": 13.54248,
+    "name": "K\u00f6ln Messe/Deutz",
+    "events": 32139,
+    "mean_delay": 4.6,
+    "on_time_pct": 77.6
+  },
+  "08000080": {
+    "lat": 51.5179,
+    "lon": 7.45929,
+    "name": "Dortmund Hbf",
+    "events": 32106,
+    "mean_delay": 5.1,
+    "on_time_pct": 77.6
+  },
+  "08000152": {
+    "lat": 52.37676,
+    "lon": 9.74102,
+    "name": "Hannover Hbf",
+    "events": 30815,
+    "mean_delay": 5.1,
+    "on_time_pct": 78.6
+  },
+  "08004158": {
+    "lat": 48.14989,
+    "lon": 11.46149,
+    "name": "M\u00fcnchen-Pasing",
+    "events": 29957,
+    "mean_delay": 4.2,
+    "on_time_pct": 78.5
+  },
+  "08098553": {
+    "lat": 53.5527,
+    "lon": 9.93517,
+    "name": "Hamburg-Altona",
+    "events": 28470,
+    "mean_delay": 1.8,
+    "on_time_pct": 93.2
+  },
+  "08089185": {
+    "lat": 52.51097,
+    "lon": 13.43457,
+    "name": "Berlin Ostbahnhof",
+    "events": 28386,
+    "mean_delay": 1.2,
+    "on_time_pct": 96.4
+  },
+  "08000096": {
+    "lat": 48.78408,
+    "lon": 9.18164,
+    "name": "Stuttgart Hbf",
+    "events": 27738,
+    "mean_delay": 5.1,
+    "on_time_pct": 77.0
+  },
+  "08000086": {
+    "lat": 51.42979,
+    "lon": 6.77591,
+    "name": "Duisburg Hbf",
+    "events": 26239,
+    "mean_delay": 5.1,
+    "on_time_pct": 76.8
+  },
+  "08098105": {
+    "lat": 50.10715,
+    "lon": 8.66379,
+    "name": "Frankfurt (Main) Hbf",
+    "events": 24792,
+    "mean_delay": 2.5,
+    "on_time_pct": 88.3
+  },
+  "08000191": {
+    "lat": 48.99351,
+    "lon": 8.40185,
+    "name": "Karlsruhe Hbf",
+    "events": 24073,
+    "mean_delay": 4.3,
+    "on_time_pct": 81.0
+  },
+  "08089032": {
+    "lat": 52.50938,
+    "lon": 13.37598,
+    "name": "Berlin Potsdamer Platz",
+    "events": 23363,
+    "mean_delay": 1.7,
+    "on_time_pct": 95.4
+  },
+  "08002548": {
+    "lat": 53.56075,
+    "lon": 9.98957,
+    "name": "Hamburg Dammtor",
+    "events": 22783,
+    "mean_delay": 3.7,
+    "on_time_pct": 86.0
+  },
+  "08002041": {
+    "lat": 48.73198,
+    "lon": 10.71448,
+    "name": "Frankfurt (Main) S\u00fcd",
+    "events": 21737,
+    "mean_delay": 3.7,
+    "on_time_pct": 82.4
+  },
+  "08089182": {
+    "lat": 52.50989,
+    "lon": 13.49692,
+    "name": "Berlin-Lichtenberg",
+    "events": 21590,
+    "mean_delay": 1.4,
+    "on_time_pct": 96.0
+  },
+  "08000170": {
+    "lat": 48.39943,
+    "lon": 9.98222,
+    "name": "Ulm Hbf",
+    "events": 20908,
+    "mean_delay": 3.8,
+    "on_time_pct": 83.9
+  },
+  "08002549": {
+    "lat": 53.55273,
+    "lon": 10.00691,
+    "name": "Hamburg Hbf",
+    "events": 20765,
+    "mean_delay": 6.7,
+    "on_time_pct": 72.9
+  },
+  "08000013": {
+    "lat": 48.36544,
+    "lon": 10.88557,
+    "name": "Augsburg Hbf",
+    "events": 20477,
+    "mean_delay": 4.1,
+    "on_time_pct": 82.4
+  },
+  "08089046": {
+    "lat": 52.5073,
+    "lon": 13.3324,
+    "name": "Berlin Zoologischer Garten",
+    "events": 20282,
+    "mean_delay": 1.4,
+    "on_time_pct": 96.7
+  },
+  "08000274": {
+    "lat": 51.20444,
+    "lon": 6.6844,
+    "name": "Neuss Hbf",
+    "events": 20197,
+    "mean_delay": 2.6,
+    "on_time_pct": 88.6
+  },
+  "08098096": {
+    "lat": 48.78408,
+    "lon": 9.18164,
+    "name": "Stuttgart Hbf",
+    "events": 19532,
+    "mean_delay": 2.7,
+    "on_time_pct": 87.3
+  },
+  "08000244": {
+    "lat": 49.4793,
+    "lon": 8.46953,
+    "name": "Mannheim Hbf",
+    "events": 18925,
+    "mean_delay": 6.1,
+    "on_time_pct": 74.1
+  },
+  "08000261": {
+    "lat": 48.14023,
+    "lon": 11.55834,
+    "name": "M\u00fcnchen Hbf",
+    "events": 18854,
+    "mean_delay": 8.4,
+    "on_time_pct": 66.8
+  },
+  "08000266": {
+    "lat": 51.25433,
+    "lon": 7.14938,
+    "name": "Wuppertal Hbf",
+    "events": 18838,
+    "mean_delay": 5.3,
+    "on_time_pct": 74.7
+  },
+  "08010159": {
+    "lat": 51.47751,
+    "lon": 11.98709,
+    "name": "Halle (Saale) Hbf",
+    "events": 18728,
+    "mean_delay": 3.0,
+    "on_time_pct": 87.8
+  },
+  "08000263": {
+    "lat": 51.95656,
+    "lon": 7.63572,
+    "name": "M\u00fcnster (Westf) Hbf",
+    "events": 18301,
+    "mean_delay": 4.7,
+    "on_time_pct": 80.1
+  },
+  "08000150": {
+    "lat": 50.12128,
+    "lon": 8.92916,
+    "name": "Hanau Hbf",
+    "events": 17155,
+    "mean_delay": 4.9,
+    "on_time_pct": 77.1
+  },
+  "08000142": {
+    "lat": 51.36274,
+    "lon": 7.46025,
+    "name": "Hagen Hbf",
+    "events": 17105,
+    "mean_delay": 4.8,
+    "on_time_pct": 80.0
+  },
+  "08000240": {
+    "lat": 50.00111,
+    "lon": 8.25872,
+    "name": "Mainz Hbf",
+    "events": 16285,
+    "mean_delay": 6.4,
+    "on_time_pct": 71.8
+  },
+  "08000286": {
+    "lat": 51.47512,
+    "lon": 6.85204,
+    "name": "Oberhausen Hbf",
+    "events": 16144,
+    "mean_delay": 3.6,
+    "on_time_pct": 81.0
+  },
+  "08098160": {
+    "lat": 52.5256,
+    "lon": 13.3695,
+    "name": "Berlin Hauptbahnhof",
+    "events": 16036,
+    "mean_delay": 4.7,
+    "on_time_pct": 81.4
+  },
+  "08010101": {
+    "lat": 51.56755,
+    "lon": 7.52855,
+    "name": "Erfurt Hbf",
+    "events": 16030,
+    "mean_delay": 4.2,
+    "on_time_pct": 83.0
+  },
+  "08010089": {
+    "lat": 51.4582,
+    "lon": 7.41516,
+    "name": "Dresden-Neustadt",
+    "events": 15917,
+    "mean_delay": 3.0,
+    "on_time_pct": 88.0
+  },
+  "08000050": {
+    "lat": 53.08348,
+    "lon": 8.81383,
+    "name": "Bremen Hbf",
+    "events": 15584,
+    "mean_delay": 4.3,
+    "on_time_pct": 84.2
+  },
+  "08010085": {
+    "lat": 51.04056,
+    "lon": 13.73204,
+    "name": "Dresden Hbf",
+    "events": 15575,
+    "mean_delay": 3.1,
+    "on_time_pct": 87.4
+  },
+  "08000055": {
+    "lat": 49.12462,
+    "lon": 8.58965,
+    "name": "Bruchsal",
+    "events": 15371,
+    "mean_delay": 2.9,
+    "on_time_pct": 87.0
+  },
+  "08010205": {
+    "lat": 51.42646,
+    "lon": 7.14138,
+    "name": "Leipzig Hbf",
+    "events": 15266,
+    "mean_delay": 3.4,
+    "on_time_pct": 86.4
+  },
+  "08000250": {
+    "lat": 50.07079,
+    "lon": 8.24373,
+    "name": "Wiesbaden Hbf",
+    "events": 14973,
+    "mean_delay": 2.8,
+    "on_time_pct": 87.4
+  },
+  "08000206": {
+    "lat": 50.35108,
+    "lon": 7.58865,
+    "name": "Koblenz Hbf",
+    "events": 14764,
+    "mean_delay": 7.6,
+    "on_time_pct": 67.3
+  },
+  "08089190": {
+    "lat": 52.4211,
+    "lon": 13.1794,
+    "name": "Berlin-Wannsee",
+    "events": 14410,
+    "mean_delay": 1.5,
+    "on_time_pct": 95.6
+  },
+  "08098147": {
+    "lat": 53.4563,
+    "lon": 9.99159,
+    "name": "Hamburg-Harburg",
+    "events": 14332,
+    "mean_delay": 2.0,
+    "on_time_pct": 91.6
+  },
+  "08010404": {
+    "lat": 52.53447,
+    "lon": 13.19753,
+    "name": "Berlin-Spandau",
+    "events": 14320,
+    "mean_delay": 5.9,
+    "on_time_pct": 76.0
+  },
+  "08010224": {
+    "lat": 52.13035,
+    "lon": 11.62689,
+    "name": "Magdeburg Hbf",
+    "events": 14283,
+    "mean_delay": 3.3,
+    "on_time_pct": 85.5
+  },
+  "08000041": {
+    "lat": 51.47865,
+    "lon": 7.22411,
+    "name": "Bochum Hbf",
+    "events": 14146,
+    "mean_delay": 4.5,
+    "on_time_pct": 79.9
+  },
+  "08000156": {
+    "lat": 49.40378,
+    "lon": 8.67574,
+    "name": "Heidelberg Hbf",
+    "events": 13978,
+    "mean_delay": 4.4,
+    "on_time_pct": 80.0
+  },
+  "08000036": {
+    "lat": 52.02926,
+    "lon": 8.53272,
+    "name": "Bielefeld Hbf",
+    "events": 13933,
+    "mean_delay": 5.1,
+    "on_time_pct": 78.0
+  },
+  "08000260": {
+    "lat": 49.80179,
+    "lon": 9.93578,
+    "name": "W\u00fcrzburg Hbf",
+    "events": 13887,
+    "mean_delay": 6.8,
+    "on_time_pct": 74.6
+  },
+  "08098205": {
+    "lat": 51.34655,
+    "lon": 12.38333,
+    "name": "Leipzig Hbf",
+    "events": 13777,
+    "mean_delay": 1.8,
+    "on_time_pct": 93.8
+  },
+  "08003200": {
+    "lat": 51.31312,
+    "lon": 9.4469,
+    "name": "Kassel-Wilhelmsh\u00f6he",
+    "events": 13519,
+    "mean_delay": 6.6,
+    "on_time_pct": 73.1
+  },
+  "08000049": {
+    "lat": 52.25224,
+    "lon": 10.5397,
+    "name": "Braunschweig Hbf",
+    "events": 13491,
+    "mean_delay": 2.9,
+    "on_time_pct": 88.3
+  },
+  "08010304": {
+    "lat": 54.07832,
+    "lon": 12.13171,
+    "name": "Rostock Hbf",
+    "events": 13374,
+    "mean_delay": 1.6,
+    "on_time_pct": 94.1
+  },
+  "08011306": {
+    "lat": 49.68123,
+    "lon": 8.61698,
+    "name": "Berlin Friedrichstra\u00dfe",
+    "events": 13241,
+    "mean_delay": 2.8,
+    "on_time_pct": 84.6
+  },
+  "08000149": {
+    "lat": 51.67808,
+    "lon": 7.80782,
+    "name": "Hamm (Westf) Hbf",
+    "events": 12991,
+    "mean_delay": 6.9,
+    "on_time_pct": 69.0
+  },
+  "08000253": {
+    "lat": 51.19658,
+    "lon": 6.44611,
+    "name": "M\u00f6nchengladbach Hbf",
+    "events": 12911,
+    "mean_delay": 3.9,
+    "on_time_pct": 83.5
+  },
+  "08011160": {
+    "lat": 50.10276,
+    "lon": 8.78438,
+    "name": "Berlin Hauptbahnhof",
+    "events": 12900,
+    "mean_delay": 6.6,
+    "on_time_pct": 71.7
+  },
+  "08089021": {
+    "lat": 52.5256,
+    "lon": 13.3695,
+    "name": "Berlin Hauptbahnhof",
+    "events": 12802,
+    "mean_delay": 1.5,
+    "on_time_pct": 95.2
+  },
+  "08010255": {
+    "lat": 51.71279,
+    "lon": 6.97102,
+    "name": "Berlin Ostbahnhof",
+    "events": 12686,
+    "mean_delay": 6.5,
+    "on_time_pct": 71.2
+  },
+  "08000001": {
+    "lat": 50.7678,
+    "lon": 6.0915,
+    "name": "Aachen Hbf",
+    "events": 12576,
+    "mean_delay": 4.0,
+    "on_time_pct": 81.6
+  },
+  "08011113": {
+    "lat": 52.47548,
+    "lon": 13.36557,
+    "name": "Berlin S\u00fcdkreuz",
+    "events": 12523,
+    "mean_delay": 5.3,
+    "on_time_pct": 78.3
+  },
+  "08010184": {
+    "lat": 51.45135,
+    "lon": 7.0148,
+    "name": "Chemnitz Hbf",
+    "events": 12276,
+    "mean_delay": 1.4,
+    "on_time_pct": 94.2
+  },
+  "08000107": {
+    "lat": 47.99769,
+    "lon": 7.84159,
+    "name": "Freiburg (Breisgau) Hbf",
+    "events": 12088,
+    "mean_delay": 4.4,
+    "on_time_pct": 83.5
+  },
+  "08000124": {
+    "lat": 50.57906,
+    "lon": 8.66147,
+    "name": "Gie\u00dfen",
+    "events": 12039,
+    "mean_delay": 3.5,
+    "on_time_pct": 81.7
+  },
+  "08000025": {
+    "lat": 49.90076,
+    "lon": 10.89949,
+    "name": "Bamberg",
+    "events": 11813,
+    "mean_delay": 3.7,
+    "on_time_pct": 81.5
+  },
+  "08000118": {
+    "lat": 51.50502,
+    "lon": 7.10258,
+    "name": "Gelsenkirchen Hbf",
+    "events": 11699,
+    "mean_delay": 5.5,
+    "on_time_pct": 70.3
+  },
+  "08098261": {
+    "lat": 48.14023,
+    "lon": 11.55834,
+    "name": "M\u00fcnchen Hbf",
+    "events": 11450,
+    "mean_delay": 3.8,
+    "on_time_pct": 78.7
+  },
+  "08079041": {
+    "lat": 49.0001,
+    "lon": 8.4018,
+    "name": "Karlsruhe Bahnhofsvorplatz",
+    "events": 11443,
+    "mean_delay": 1.8,
+    "on_time_pct": 93.8
+  },
+  "08000323": {
+    "lat": 49.24115,
+    "lon": 6.99099,
+    "name": "Saarbr\u00fccken Hbf",
+    "events": 11346,
+    "mean_delay": 2.0,
+    "on_time_pct": 92.1
+  },
+  "08000068": {
+    "lat": 49.8725,
+    "lon": 8.62964,
+    "name": "Darmstadt Hbf",
+    "events": 11243,
+    "mean_delay": 3.9,
+    "on_time_pct": 82.1
+  },
+  "08000128": {
+    "lat": 51.53661,
+    "lon": 9.92568,
+    "name": "G\u00f6ttingen",
+    "events": 11172,
+    "mean_delay": 6.4,
+    "on_time_pct": 75.3
+  },
+  "08000294": {
+    "lat": 52.27285,
+    "lon": 8.06178,
+    "name": "Osnabr\u00fcck Hbf",
+    "events": 10956,
+    "mean_delay": 6.4,
+    "on_time_pct": 71.9
+  },
+  "08000087": {
+    "lat": 51.16091,
+    "lon": 7.00424,
+    "name": "Solingen Hbf",
+    "events": 10863,
+    "mean_delay": 4.9,
+    "on_time_pct": 76.7
+  },
+  "08000114": {
+    "lat": 49.46971,
+    "lon": 10.98999,
+    "name": "F\u00fcrth (Bay) Hbf",
+    "events": 10812,
+    "mean_delay": 2.9,
+    "on_time_pct": 86.0
+  },
+  "08000082": {
+    "lat": 51.27771,
+    "lon": 6.76729,
+    "name": "D\u00fcsseldorf Flughafen",
+    "events": 10440,
+    "mean_delay": 4.9,
+    "on_time_pct": 76.3
+  },
+  "08000199": {
+    "lat": 54.31498,
+    "lon": 10.13198,
+    "name": "Kiel Hbf",
+    "events": 10387,
+    "mean_delay": 2.8,
+    "on_time_pct": 88.6
+  },
+  "08000141": {
+    "lat": 48.51581,
+    "lon": 9.05541,
+    "name": "T\u00fcbingen Hbf",
+    "events": 10338,
+    "mean_delay": 3.9,
+    "on_time_pct": 78.0
+  },
+  "08000038": {
+    "lat": 48.94794,
+    "lon": 9.13755,
+    "name": "Bietigheim-Bissingen",
+    "events": 10287,
+    "mean_delay": 3.5,
+    "on_time_pct": 82.1
+  },
+  "08000237": {
+    "lat": 53.86777,
+    "lon": 10.67035,
+    "name": "L\u00fcbeck Hbf",
+    "events": 10240,
+    "mean_delay": 2.1,
+    "on_time_pct": 91.6
+  },
+  "08000302": {
+    "lat": 48.71308,
+    "lon": 9.41081,
+    "name": "Plochingen",
+    "events": 9802,
+    "mean_delay": 3.5,
+    "on_time_pct": 82.2
+  },
+  "08000290": {
+    "lat": 48.47648,
+    "lon": 7.94672,
+    "name": "Offenburg",
+    "events": 9511,
+    "mean_delay": 4.9,
+    "on_time_pct": 81.7
+  },
+  "08000189": {
+    "lat": 49.43614,
+    "lon": 7.76871,
+    "name": "Kaiserslautern Hbf",
+    "events": 9482,
+    "mean_delay": 2.9,
+    "on_time_pct": 87.7
+  },
+  "08000299": {
+    "lat": 48.89415,
+    "lon": 8.70309,
+    "name": "Pforzheim Hbf",
+    "events": 9457,
+    "mean_delay": 2.2,
+    "on_time_pct": 88.5
+  },
+  "08000147": {
+    "lat": 53.4563,
+    "lon": 9.99159,
+    "name": "Hamburg-Harburg",
+    "events": 9349,
+    "mean_delay": 8.7,
+    "on_time_pct": 65.1
+  },
+  "08000073": {
+    "lat": 47.75844,
+    "lon": 8.84038,
+    "name": "Singen (Hohentwiel)",
+    "events": 9309,
+    "mean_delay": 2.0,
+    "on_time_pct": 90.8
+  },
+  "08000183": {
+    "lat": 48.74454,
+    "lon": 11.43733,
+    "name": "Ingolstadt Hbf",
+    "events": 9296,
+    "mean_delay": 6.4,
+    "on_time_pct": 72.6
+  },
+  "08000115": {
+    "lat": 50.55472,
+    "lon": 9.68398,
+    "name": "Fulda",
+    "events": 9285,
+    "mean_delay": 7.7,
+    "on_time_pct": 68.6
+  },
+  "08000044": {
+    "lat": 50.73201,
+    "lon": 7.09714,
+    "name": "Bonn Hbf",
+    "events": 8904,
+    "mean_delay": 7.8,
+    "on_time_pct": 69.5
+  },
+  "08000275": {
+    "lat": 49.34156,
+    "lon": 8.15706,
+    "name": "Neustadt (Weinstr) Hbf",
+    "events": 8875,
+    "mean_delay": 3.3,
+    "on_time_pct": 83.5
+  },
+  "08011102": {
+    "lat": 52.54896,
+    "lon": 13.38851,
+    "name": "Berlin Gesundbrunnen",
+    "events": 8851,
+    "mean_delay": 3.6,
+    "on_time_pct": 84.6
+  },
+  "08000309": {
+    "lat": 49.01167,
+    "lon": 12.09962,
+    "name": "Regensburg Hbf",
+    "events": 8825,
+    "mean_delay": 7.7,
+    "on_time_pct": 66.4
+  },
+  "08000169": {
+    "lat": 52.16063,
+    "lon": 9.95349,
+    "name": "Hildesheim Hbf",
+    "events": 8699,
+    "mean_delay": 2.5,
+    "on_time_pct": 88.9
+  },
+  "08011201": {
+    "lat": 50.29134,
+    "lon": 8.97878,
+    "name": "Flughafen BER",
+    "events": 8641,
+    "mean_delay": 2.8,
+    "on_time_pct": 88.4
+  },
+  "08010406": {
+    "lat": 51.50063,
+    "lon": 7.42002,
+    "name": "Berlin Zoologischer Garten",
+    "events": 8482,
+    "mean_delay": 4.4,
+    "on_time_pct": 77.1
+  },
+  "08000236": {
+    "lat": 49.4772,
+    "lon": 8.4286,
+    "name": "Ludwigshafen (Rhein) Hbf",
+    "events": 8447,
+    "mean_delay": 4.4,
+    "on_time_pct": 76.1
+  },
+  "08000271": {
+    "lat": 54.07555,
+    "lon": 9.97972,
+    "name": "Neum\u00fcnster",
+    "events": 8316,
+    "mean_delay": 3.5,
+    "on_time_pct": 83.9
+  },
+  "08000010": {
+    "lat": 49.98055,
+    "lon": 9.14369,
+    "name": "Aschaffenburg Hbf",
+    "events": 8163,
+    "mean_delay": 5.4,
+    "on_time_pct": 78.1
+  },
+  "08000162": {
+    "lat": 52.11961,
+    "lon": 8.66364,
+    "name": "Herford",
+    "events": 8111,
+    "mean_delay": 4.1,
+    "on_time_pct": 82.2
+  },
+  "08000134": {
+    "lat": 49.75685,
+    "lon": 6.65245,
+    "name": "Trier Hbf",
+    "events": 8091,
+    "mean_delay": 2.9,
+    "on_time_pct": 87.5
+  },
+  "08012666": {
+    "lat": 52.3917,
+    "lon": 13.06678,
+    "name": "Potsdam Hbf",
+    "events": 7949,
+    "mean_delay": 2.0,
+    "on_time_pct": 90.6
+  },
+  "08000320": {
+    "lat": 47.85013,
+    "lon": 12.11911,
+    "name": "Rosenheim",
+    "events": 7939,
+    "mean_delay": 6.1,
+    "on_time_pct": 75.0
+  },
+  "0836075": {
+    "lat": 49.2411,
+    "lon": 6.9911,
+    "name": "Hauptbahnhof, Saarbr\u00fccken",
+    "events": 7854,
+    "mean_delay": 0.5,
+    "on_time_pct": 98.1
+  },
+  "08089201": {
+    "lat": 52.3644,
+    "lon": 13.5114,
+    "name": "Flughafen BER",
+    "events": 7765,
+    "mean_delay": 1.1,
+    "on_time_pct": 97.9
+  },
+  "08006552": {
+    "lat": 52.42949,
+    "lon": 10.7882,
+    "name": "Wolfsburg Hbf",
+    "events": 7753,
+    "mean_delay": 4.6,
+    "on_time_pct": 82.5
+  },
+  "08000297": {
+    "lat": 51.71298,
+    "lon": 8.74051,
+    "name": "Paderborn Hbf",
+    "events": 7746,
+    "mean_delay": 3.0,
+    "on_time_pct": 84.8
+  },
+  "08010073": {
+    "lat": 51.75095,
+    "lon": 14.32416,
+    "name": "Cottbus Hbf",
+    "events": 7706,
+    "mean_delay": 2.9,
+    "on_time_pct": 87.4
+  },
+  "08089083": {
+    "lat": 52.53447,
+    "lon": 13.19753,
+    "name": "Berlin-Spandau",
+    "events": 7551,
+    "mean_delay": 0.5,
+    "on_time_pct": 98.3
+  },
+  "08000157": {
+    "lat": 49.14331,
+    "lon": 9.20771,
+    "name": "Heilbronn Hbf",
+    "events": 7444,
+    "mean_delay": 3.8,
+    "on_time_pct": 83.6
+  },
+  "08000257": {
+    "lat": 49.63475,
+    "lon": 8.35663,
+    "name": "Worms Hbf",
+    "events": 7378,
+    "mean_delay": 2.6,
+    "on_time_pct": 86.8
+  },
+  "08089184": {
+    "lat": 52.3917,
+    "lon": 13.06678,
+    "name": "Potsdam Hbf",
+    "events": 7000,
+    "mean_delay": 1.6,
+    "on_time_pct": 97.3
+  },
+  "08010405": {
+    "lat": 51.47818,
+    "lon": 7.30436,
+    "name": "Berlin-Wannsee",
+    "events": 6764,
+    "mean_delay": 3.6,
+    "on_time_pct": 82.2
+  },
+  "08000316": {
+    "lat": 52.2763,
+    "lon": 7.43426,
+    "name": "Rheine",
+    "events": 6577,
+    "mean_delay": 5.5,
+    "on_time_pct": 76.3
+  },
+  "08010113": {
+    "lat": 51.49787,
+    "lon": 7.36343,
+    "name": "Frankfurt (Oder)",
+    "events": 6449,
+    "mean_delay": 2.4,
+    "on_time_pct": 92.3
+  },
+  "08011118": {
+    "lat": 50.06788,
+    "lon": 8.48964,
+    "name": "Berlin Potsdamer Platz",
+    "events": 6436,
+    "mean_delay": 2.8,
+    "on_time_pct": 86.8
+  },
+  "08000168": {
+    "lat": 52.96978,
+    "lon": 10.55306,
+    "name": "Uelzen",
+    "events": 6242,
+    "mean_delay": 4.9,
+    "on_time_pct": 76.2
+  },
+  "08000217": {
+    "lat": 48.54749,
+    "lon": 12.13593,
+    "name": "Landshut (Bay) Hbf",
+    "events": 6212,
+    "mean_delay": 5.1,
+    "on_time_pct": 75.5
+  },
+  "08002553": {
+    "lat": 53.5527,
+    "lon": 9.93517,
+    "name": "Hamburg-Altona",
+    "events": 6132,
+    "mean_delay": 7.3,
+    "on_time_pct": 76.3
+  },
+  "08000023": {
+    "lat": 54.50205,
+    "lon": 11.2279,
+    "name": "Bad Oldesloe",
+    "events": 6101,
+    "mean_delay": 2.5,
+    "on_time_pct": 88.9
+  },
+  "08098193": {
+    "lat": 51.31819,
+    "lon": 9.48979,
+    "name": "Kassel Hbf (tief)",
+    "events": 6081,
+    "mean_delay": 1.4,
+    "on_time_pct": 96.3
+  },
+  "08010036": {
+    "lat": 51.57369,
+    "lon": 7.30456,
+    "name": "Berlin-Lichtenberg",
+    "events": 5841,
+    "mean_delay": 2.6,
+    "on_time_pct": 89.4
+  },
+  "08000291": {
+    "lat": 53.14434,
+    "lon": 8.22246,
+    "name": "Oldenburg (Oldb) Hbf",
+    "events": 5635,
+    "mean_delay": 3.3,
+    "on_time_pct": 86.4
+  },
+  "08000238": {
+    "lat": 53.24965,
+    "lon": 10.41989,
+    "name": "L\u00fcneburg",
+    "events": 5136,
+    "mean_delay": 5.3,
+    "on_time_pct": 76.3
+  },
+  "0370014": {
+    "lat": 53.0833,
+    "lon": 8.8139,
+    "name": "Hauptbahnhof/Hugo-Schauinsland-Platz, Bremen",
+    "events": 4689,
+    "mean_delay": 0.0,
+    "on_time_pct": 100.0
+  },
+  "08001580": {
+    "lat": 54.87214,
+    "lon": 8.43247,
+    "name": "D\u00fcsseldorf Flughafen Terminal",
+    "events": 3611,
+    "mean_delay": 3.0,
+    "on_time_pct": 83.1
+  },
+  "08071738": {
+    "lat": 50.8389,
+    "lon": 12.9278,
+    "name": "Chemnitz Hbf (Bahnhofstra\u00dfe)",
+    "events": 3573,
+    "mean_delay": 0.4,
+    "on_time_pct": 98.8
+  },
+  "08098262": {
+    "lat": 48.14023,
+    "lon": 11.55834,
+    "name": "M\u00fcnchen Hbf",
+    "events": 3330,
+    "mean_delay": 5.7,
+    "on_time_pct": 73.2
+  },
+  "0423638": {
+    "lat": 49.1417,
+    "lon": 9.2083,
+    "name": "Hauptbahnhof/Busbahnhof, Heilbronn",
+    "events": 3189,
+    "mean_delay": 7.1,
+    "on_time_pct": 90.7
+  },
+  "08000193": {
+    "lat": 51.31826,
+    "lon": 9.4895,
+    "name": "Kassel Hbf",
+    "events": 3109,
+    "mean_delay": 3.5,
+    "on_time_pct": 86.6
+  },
+  "08073368": {
+    "lat": 50.9408,
+    "lon": 6.9749,
+    "name": "K\u00f6ln Messe/Deutz",
+    "events": 1491,
+    "mean_delay": 11.6,
+    "on_time_pct": 61.8
+  },
+  "08089295": {
+    "lat": 50.84083,
+    "lon": 12.92639,
+    "name": "Chemnitz Omnibusbahnhof",
+    "events": 935,
+    "mean_delay": 0.5,
+    "on_time_pct": 100.0
+  },
+  "0540001": {
+    "lat": 49.0117,
+    "lon": 12.0983,
+    "name": "Hauptbahnhof, Regensburg",
+    "events": 3008,
+    "mean_delay": 0.4,
+    "on_time_pct": 98.7
+  },
+  "08070814": {
+    "lat": 51.4819,
+    "lon": 11.9869,
+    "name": "Halle(Saale)Hbf Busbahnhof Bussteig 9",
+    "events": 2288,
+    "mean_delay": 2.6,
+    "on_time_pct": 88.8
+  },
+  "08082019": {
+    "lat": 52.2522,
+    "lon": 10.54,
+    "name": "Braunschweig Hbf ZOB",
+    "events": 1984,
+    "mean_delay": 0.0,
+    "on_time_pct": 100.0
+  },
+  "0940370": {
+    "lat": 48.8942,
+    "lon": 8.7042,
+    "name": "ZOB/Hauptbahnhof, Pforzheim",
+    "events": 1389,
+    "mean_delay": 0.1,
+    "on_time_pct": 99.3
+  },
+  "0378258": {
+    "lat": 53.8675,
+    "lon": 10.6703,
+    "name": "ZOB/Hauptbahnhof, L\u00fcbeck",
+    "events": 1146,
+    "mean_delay": 7.2,
+    "on_time_pct": 73.5
+  }
+}
